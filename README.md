@@ -52,7 +52,7 @@ Its important to note that the test deliberately excludes physical interaction b
 </p>
 
 
-AI is a rapidly evoloving and isn't merely a simple single techonology but rather a complex mix of various fields.
+AI is rapidly evoloving and isn't merely a simple single techonology but rather a complex mix of various fields.
 
 Lets look at how the AI and its subfields like ML, DL, Generative AI and LLMs function together
 <p align="center">
@@ -62,14 +62,14 @@ Lets look at how the AI and its subfields like ML, DL, Generative AI and LLMs fu
 </p>
 
 ### Artificial Intelligence (AI):
-Artificial intelligence (AI) is a set of technologies that empowers computers to learn, reason, and perform a variety of advanced tasks in ways that used to require human intelligence, such as understanding language, analyzing data, and even providing helpful suggestions.
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines which allows them to think and act like humans.It involves creating algorithms and systems that can perform tasks that require human abilities such as visual perception, speech recognition, decision-making and language translation.
 
 ### Machine Learning (ML):
-Machine learning is a subset of Artificial Intelligence (AI) where computers learn from data and make predictions without being explicitly programmed. Instead of following hard-coded rules, ML algorithms analyze large datasets to find patterns and improve their accuracy over time
+Machine learning is a subset of Artificial Intelligence that focuses on developing models and algorithms that let computers learn from data without being explicitly programmed for every task. In simple words, ML teaches systems to think and understand like humans by learning from the data.
 
 
 ### Deep Learning (DL):
-Deep Learning is a subset of machine learning that uses artificial neural networks with many layers to automatically learn complex patterns from large datasets. Unlike traditional ML, it can extract features on its own making it useful for handling unstructured data such as images, speech and text.
+Deep Learning is a subset of machine learning thats associated with complex data. Deep Learning is transforming the way machines understand, learn and interact with complex data. Deep learning mimics neural networks of the human brain, it enables computers to autonomously uncover patterns and make informed decisions from vast amounts of unstructured data.
 
 ### Generative AI (GenAI)
 Generative AI is a subset of Deep Learning which, as the name suggests, is capable of generating completely new data from the existing data. Its useful for LLMs, Image generation and Video or Audio generations.
