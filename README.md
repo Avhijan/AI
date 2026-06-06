@@ -62,7 +62,7 @@ Lets look at how the AI and its subfields like ML, DL, Generative AI and LLMs fu
 </p>
 
 ### Artificial Intelligence (AI):
-Artificial Intelligence (AI) refers to the simulation of human intelligence in machines which allows them to think and act like humans.It involves creating algorithms and systems that can perform tasks that require human abilities such as visual perception, speech recognition, decision-making and language translation.
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines which allows them to think and act like humans. It involves creating algorithms and systems that can perform tasks that require human abilities such as visual perception, speech recognition, decision-making and language translation.
 
 ### Machine Learning (ML):
 Machine learning is a subset of Artificial Intelligence that focuses on developing models and algorithms that let computers learn from data without being explicitly programmed for every task. In simple words, ML teaches systems to think and understand like humans by learning from the data.
